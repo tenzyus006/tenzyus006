@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, Salut, Tashi Delek, Namste, Vanakam!!!
 
 Here are study notes for Excel functions for Data Analysis
 
