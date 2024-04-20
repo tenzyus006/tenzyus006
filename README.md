@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**tenzyus006/tenzyus006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are study notes for Excel functions for Data Analysis
 
 - 🔭 Currently doing revision and exploring on advanced level excel functions with shortcut keys for Data Analysis
