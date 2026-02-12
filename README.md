@@ -1,6 +1,6 @@
 ### Hi 👋, Salut, Tashi Delek, Namste, Vanakam!!!
 
-Here are study notes for Excel functions for Data Analysis
+Here are study notes for data pipeline automation for Data Analysis
 
 - 🔭 Currently doing revision and exploring other more technologies with different ways of automating the Data Analysis to persue a role in Data Engineer junior.
 - 👯 I’m looking to collaborate on learning it twice a week
